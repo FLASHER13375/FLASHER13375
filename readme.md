@@ -24,6 +24,4 @@
 
 Discord: ``FLASHER#6065``
 
-<a href="https://discord.com/users/748556262802849812">
-   <img src="https://lanyard-profile-readme.vercel.app/api/748556262802849812?hideTimestamp=true&idleMessage=SonBot%20the%20best%F0%9F%92%A4" />
-</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/748556262802849812)](https://discord.com/users/748556262802849812)
