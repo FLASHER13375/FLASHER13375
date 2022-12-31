@@ -4,7 +4,7 @@
 
 + Разработчик бота <a href="https://discord.com/api/oauth2/authorize?client_id=1057771464541094010&permissions=8&scope=bot">**XitoryBot** </a>
 
-+ Discord Support сервер <a href="[https://discord.gg/JZVpBBVpHf](https://discord.gg/CrtSrYrCrQ)">**Войти**</a>
++ Discord Support сервер <a href="[https://discord.gg/JZVpBBVpHf](https://discord.gg/CrtSrYrCrQ)">**Войти** </a>
 
 + discord.py разработчик.
 
@@ -24,6 +24,6 @@
 
 Discord: ``FLASHER#6065``
 
-<a href="https://discord.com/users/597854685457678338">
+<a href="https://discord.com/users/748556262802849812">
    <img src="https://lanyard-profile-readme.vercel.app/api/748556262802849812?hideTimestamp=true&idleMessage=SonBot%20the%20best%F0%9F%92%A4" />
 </a>
