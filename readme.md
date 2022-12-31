@@ -8,7 +8,7 @@
 
 + discord.py разработчик.
 
-<a href="https://discord.gg/v2wS27uMEZ">![Discord Banner 2](https://discordapp.com/api/guilds/990348386563670027/widget.png?style=banner2)</a>
+<a href="https://discord.gg/v2wS27uMEZ">![Discord Banner 2](https://discordapp.com/api/guilds/1057771464541094010/widget.png?style=banner2)</a>
 
 **Мониторинги где находится бот**
 
